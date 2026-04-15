@@ -1,1 +1,1 @@
-# kartograph
+Kartograph is a dynamic web application built using React and Express.
