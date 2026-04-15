@@ -17,6 +17,6 @@
     "webpack": "^5.64.4"
   },
   "scripts": {
-    "dev": "vite"
+    "dev": "vite --host"
   }
 }
