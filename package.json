@@ -16,4 +16,7 @@
     "jest": "^30.3.0",
     "webpack": "^5.64.4"
   }
+    "scripts": {
+    "dev": "vite"
+  }
 }
